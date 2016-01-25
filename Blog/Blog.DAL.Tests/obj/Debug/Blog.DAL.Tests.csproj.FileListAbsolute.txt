@@ -1,0 +1,17 @@
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\Fixtures\posts.yml
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.pdb
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.dll
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.dll
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.dll
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.dll
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.dll
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.pdb
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.xml
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.pdb
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.pdb
+D:\student\matflo\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.pdb
+D:\student\matflo\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.csprojResolveAssemblyReference.cache
+D:\student\matflo\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.dll
+D:\student\matflo\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.pdb
