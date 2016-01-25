@@ -13,4 +13,4 @@ namespace Blog.DAL.Model
         public string Author { get; set; }
     }
 }
-//empty commit
+//empty commit2
